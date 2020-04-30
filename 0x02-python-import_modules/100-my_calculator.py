@@ -2,7 +2,7 @@
 from calculator_1 import add, sub, mul, div
 from sys import argv
 
-argv = sys.argv[1:]
+argv = argv[1:]
 argc = len(argv)
 
 
